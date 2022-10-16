@@ -1,0 +1,23 @@
+h1 {
+    color: lightsalmon;
+
+}
+p {
+    color: white;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+body{
+    min-height: 100pt;
+    width: 100%;
+    /*CITE wallpaperflare https://www.wallpaperflare.com/programming-code-abstract-screen-of-software-developer-coder-wallpaper-enjhi*/
+    background-image: url("wallpaperflare_wallpaper.jpg");
+    background-size: cover;
+    position: relative;
+}
+footer {
+    display: block;
+  }
+ 
